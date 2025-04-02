@@ -1,6 +1,7 @@
 # the-last-meadow
 
 
+discord > ctrl+shift+i > console tab> "allow pasting" > paste this
 script
 ```js
 let weedClickCount = 0;
